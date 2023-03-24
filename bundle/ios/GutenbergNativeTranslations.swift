@@ -187,6 +187,7 @@ private func dummy() {
     _ = NSLocalizedString("Invalid URL.", comment: "")
     _ = NSLocalizedString("Invalid URL. Audio file not found.", comment: "")
     _ = NSLocalizedString("Invalid URL. Please enter a valid URL.", comment: "")
+    _ = NSLocalizedString("Invalid VideoPress URL", comment: "")
     _ = NSLocalizedString("Jetpack powered", comment: "")
     _ = NSLocalizedString("Line Height", comment: "")
     _ = NSLocalizedString("Link inserted", comment: "")
